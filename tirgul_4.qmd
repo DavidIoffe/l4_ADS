@@ -1,0 +1,54 @@
+---
+title: "Tirgul_4_ADS"
+author: "Ioffed"
+format: html
+editor: visual
+---
+
+```{r}
+# The Add Chunk command in the editor toolbar.
+```
+
+------------------------------------------------------------------------
+
+------------------------------------------------------------------------
+
+```{r}
+# ‘CTRL’ + ‘ALT’ + ‘I’
+```
+
+# {r}
+
+## **Quarto is cool (not!)**
+
+```{r, eval=FALSE}
+dotchart(mtcars$mpg,labels=row.names(mtcars),cex=.7,
+          main="Gas Milage for Car Models", 
+          xlab="Miles Per Gallon")
+```
+
+```{r, eval=TRUE, include=TRUE}
+2 * 3
+```
+
+**David**
+
+*Ioffe*
+
+`id 207368846`
+
+[BGU](https://in.bgu.ac.il/Pages/4students.aspx "Ben Gurion")
+
+```{r,eval=FALSE}
+1 + 1 = 53
+```
+
+```{r}
+
+```
+
+| Random Numbers | Random Names |
+|----------------|--------------|
+| 2              | David        |
+| 3              | Izak         |
+| 5              | Ayelet       |
